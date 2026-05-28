@@ -88,7 +88,7 @@ I enjoy turning ideas into real applications and continuously sharpening my skil
 
 <p align="center">
 <a href="https://www.facebook.com/Aerol22" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aerol22" height="50" width="50" />
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Aerol22" height="25" width="25" />
 </a>
 <a href="mailto:allosada333@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Email-allosada333@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="50" />
